@@ -10,5 +10,3 @@ Volatile acididty
 Citric acid
 Fixed acididty
 Chloride
-  
-![image](https://user-images.githubusercontent.com/50816777/193235803-9d0dafd8-a349-425f-be02-326236c56752.png)
